@@ -17,6 +17,7 @@ public class Principal {
             System.out.println("1. Sumar");
             System.out.println("2. Restar");
             System.out.println("3. Salir");
+            System.out.println("Primer cambio ojo ");
             System.out.print("Elige una opción: ");
             opcion = Integer.parseInt(sc.nextLine());
 

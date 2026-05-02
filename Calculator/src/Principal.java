@@ -11,14 +11,14 @@ public class Principal {
 
         int opcion;
         double num1, num2, resultado;
-
+        
         do {
             System.out.println("=== CALCULADORA ===");
             System.out.println("1. Sumar");
             System.out.println("2. Restar");
+            System.out.println("Dividir");
             System.out.println("3. Salir");
-            System.out.println("Primer cambio ojo 1 ");
-            // cambio 2
+
             
             System.out.print("Elige una opción: ");
             opcion = Integer.parseInt(sc.nextLine());

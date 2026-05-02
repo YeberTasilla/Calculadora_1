@@ -20,7 +20,11 @@ public class Principal {
             //Primer cambio yeber
             System.out.println("3. Salir");
 
+<<<<<<< HEAD
             //cambios con merge
+=======
+            //cambios desde tarensota
+>>>>>>> tarensota
             System.out.print("Elige una opción: ");
             opcion = Integer.parseInt(sc.nextLine());
 

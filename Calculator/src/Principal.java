@@ -19,8 +19,8 @@ public class Principal {
             System.out.println("Dividir");
             //Primer cambio yeber
             System.out.println("3. Salir");
-
-            //combinacion de ambos codigos ...
+            // combinación de ambos códigos
+            
             System.out.print("Elige una opción: ");
             opcion = Integer.parseInt(sc.nextLine());
 
